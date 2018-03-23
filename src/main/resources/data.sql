@@ -1,0 +1,1 @@
+insert into application_user(username, password) values('marco', 'E1234567');
